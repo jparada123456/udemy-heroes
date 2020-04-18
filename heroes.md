@@ -2,7 +2,7 @@
 
 * Superman
 * Batman
-* Aquaman
+* Aquamansito
 * Mujer Maravilla
 * Linterna Verde
 * Robin
